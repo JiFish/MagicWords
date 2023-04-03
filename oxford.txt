@@ -14,7 +14,7 @@ access
 accident
 accommodation
 accompany
-according to
+according
 account
 accurate
 accuse
@@ -83,7 +83,6 @@ alcohol
 alcoholic
 alive
 all
-all right
 allow
 almost
 alone
@@ -121,7 +120,6 @@ another
 answer
 anxious
 any
-any more
 anybody
 anyone
 anything
@@ -1219,7 +1217,6 @@ harmful
 hat
 hate
 have
-have to
 he
 head
 headache
@@ -1301,7 +1298,7 @@ hurt
 husband
 i
 ice
-ice cream
+ice-cream
 idea
 ideal
 identify
@@ -1727,7 +1724,6 @@ new
 news
 newspaper
 next
-next to
 nice
 night
 nightmare
@@ -1735,7 +1731,7 @@ nine
 nineteen
 ninety
 no
-no one
+no-one
 nobody
 noise
 noisy
@@ -1890,7 +1886,6 @@ pension
 people
 pepper
 per
-per cent
 percentage
 perfect
 perfectly
@@ -2817,7 +2812,6 @@ urge
 us
 use
 used
-used to
 useful
 user
 usual
