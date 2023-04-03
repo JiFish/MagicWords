@@ -49,7 +49,7 @@ with open("top_100_words.txt") as file:
 word_counts = [(word, count) for (word, count) in word_counts.items() if word not in top_words]
 
 # Flatten the weight curve
-word_dict = {word: math.log10(count + 1) for word, count in dict(word_counts).items()}
+word_dict = {word: math.log(count + 1) for word, count in dict(word_counts).items()}
 
 # Sort by weight
 word_dict = {k: v for k, v in sorted(word_dict.items(), key=lambda item: item[1], reverse=True)}
