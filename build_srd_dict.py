@@ -29,10 +29,8 @@ with open('srd.txt', 'r', encoding='utf8') as file:
 
         # Iterate over each word in the list of words
         for word in words:
-            # Strip out anything that isn't an alpha character
-            word = re.sub(r'[^a-z]', '', word)
             # Exclude words of length 3 or less
-            if len(word) < 4:
+            if len(word) <= 3:
                 continue
             # If the word is already in the dictionary, increment its count
             if word in word_counts:
